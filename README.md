@@ -1,5 +1,5 @@
 # LEDSignalPatterns
-This is the code used for my Masters project. It was created for the LED shirt WEARABLE BEACON. You can find more about this shirt at http://martyf1y.tumblr.com/ or https://vimeo.com/132664622
+This is the code used for my Masters project. It was created for the LED shirt WEARABLE BEACON. You can find more about this shirt at http://creativematterz.com/index.php/portfolio/wearable-beacon
 
 It was designed specifically for the amount of rows and columns of the shirt but can be changed by altering the array: 
 int LEDsArray[] = {24,25,26,27,38,40,40,40,40,37,36,35,35,34,34,34,34,34,35,35,36,37,40,40,40,40,38,27,26,25,24};
